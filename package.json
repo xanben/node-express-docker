@@ -1,0 +1,13 @@
+{
+  "name": "node-express-docker",
+  "version": "0.0.1",
+  "description": "Node.js Express on Docker",
+  "author": "xanben@github",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
